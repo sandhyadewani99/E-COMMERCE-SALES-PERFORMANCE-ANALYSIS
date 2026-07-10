@@ -1,0 +1,8 @@
+?? KEY INSIGHTS
+
+* Identified product categories performing above and below the overall business profit margin, highlighting areas that require strategic improvement.
+* Analyzed the relationship between shipping costs and profit margins to determine the most cost-efficient shipping modes.
+* Detected sub-categories causing margin leakage, helping identify products that negatively impact overall profitability.
+* Evaluated the impact of delivery time on profitability and order priorities, revealing opportunities to improve operational efficiency.
+* Discovered yearly and monthly sales and profit trends, enabling better forecasting, seasonal planning, and data-driven business decisions.
+
