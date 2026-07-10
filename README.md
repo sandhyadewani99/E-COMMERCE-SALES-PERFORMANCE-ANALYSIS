@@ -37,7 +37,7 @@ The dataset contains order-level information, including:
 - Shipping Cost
 - Order Priority
 
----
+
 
 🔍 SQL Concepts Applied
 - Aggregate Functions (`SUM()`, `AVG()`, `COUNT()`)
